@@ -1,4 +1,4 @@
-# SoftDev4LS Working Group
+# SoftDev4Research Working Group
 
 This working group aims to put in place guidelines to improve the quality and sustainability of software development in a scientific environment.
 
